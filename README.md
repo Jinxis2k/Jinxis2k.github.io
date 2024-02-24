@@ -32,7 +32,7 @@
 </head>
 
 <div class="header">
-  <img class="logo" src=C:\Users\Owner\OneDrive\Pictures\Asentive Crafting a Better You.PNG alt="Asentive Logo">
+  <img class="logo" src="path/to/your/logo.png" alt="Asentive Logo">
 </div>
 
 <div class="mission">
@@ -58,3 +58,4 @@ Here at Asentive, we are dedicated to helping you become the best version of you
 - [Product B](#)  
 - [Product C](#)  
 - [Product D](#)
+
