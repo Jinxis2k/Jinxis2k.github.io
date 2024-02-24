@@ -5,7 +5,7 @@
       color: #ffffff; /* white text */
       margin: 0;
       padding: 0;
-      font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     }
 
     .header {
@@ -23,12 +23,16 @@
       margin: 0;
       font-weight: bold;
     }
+
+    img.logo {
+      display: block;
+      margin: 0 auto;
+    }
   </style>
 </head>
 
 <div class="header">
-  <h1>Asentive</h1>
-  <h2>Crafting the Better You</h2>
+  <img class="logo" src=C:\Users\Owner\OneDrive\Pictures\Asentive Crafting a Better You.PNG alt="Asentive Logo">
 </div>
 
 <div class="mission">
@@ -39,8 +43,6 @@
 # Welcome to Asentive
 
 Here at Asentive, we are dedicated to helping you become the best version of yourself.
-
-### ![Asentive Logo](C:\Users\Owner\OneDrive\Pictures\Asentive.PNG)
 
 ### Connect with Us:
 
