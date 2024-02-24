@@ -8,7 +8,12 @@
     }
 
     .header {
-      background-color: #ff6600; /* orange */
+      background-color: #cc4400; /* darker orange */
+      padding: 20px;
+      text-align: center;
+    }
+
+    .mission {
       padding: 20px;
       text-align: center;
     }
@@ -22,6 +27,11 @@
 <div class="header">
   <h1>Asentive</h1>
   <h2>Crafting the Better You</h2>
+</div>
+
+<div class="mission">
+  <h2>Our Mission</h2>
+  <p>At Asentive, our mission is to empower individuals to unlock their full potential and lead fulfilling lives.</p>
 </div>
 
 # Welcome to Asentive
