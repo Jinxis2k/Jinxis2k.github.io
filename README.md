@@ -5,6 +5,7 @@
       color: #ffffff; /* white text */
       margin: 0;
       padding: 0;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     }
 
     .header {
@@ -20,6 +21,7 @@
 
     h1, h2 {
       margin: 0;
+      font-weight: bold;
     }
   </style>
 </head>
