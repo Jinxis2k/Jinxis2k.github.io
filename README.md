@@ -2,22 +2,31 @@
   <style>
     body {
       background-color: #000000; /* black */
-      color: #ffffff; /* white text for better visibility */
+      color: #ffffff; /* white text */
+      margin: 0;
+      padding: 0;
     }
 
-    h1, h2, h3 {
-      color: #ff6600; /* orange */
+    .header {
+      background-color: #ff6600; /* orange */
+      padding: 20px;
+      text-align: center;
+    }
+
+    h1, h2 {
+      margin: 0;
     }
   </style>
 </head>
 
-# Asentive
+<div class="header">
+  <h1>Asentive</h1>
+  <h2>Crafting the Better You</h2>
+</div>
 
-## Crafting the Better You
+# Welcome to Asentive
 
-Welcome to Asentive, where we are dedicated to helping you become the best version of yourself.
-
-### ![Asentive Logo](path/to/your/logo.png)
+Here at Asentive, we are dedicated to helping you become the best version of yourself.
 
 ### Connect with Us:
 
@@ -32,4 +41,4 @@ Welcome to Asentive, where we are dedicated to helping you become the best versi
 - [Product A](#)  
 - [Product B](#)  
 - [Product C](#)  
-- [Product D](#)  
+- [Product D](#)
