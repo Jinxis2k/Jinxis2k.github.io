@@ -40,7 +40,7 @@
 
 Here at Asentive, we are dedicated to helping you become the best version of yourself.
 
-### ![Asentive Logo](path/to/your/logo.png)
+### ![Asentive Logo](C:\Users\Owner\OneDrive\Pictures\Asentive.PNG)
 
 ### Connect with Us:
 
